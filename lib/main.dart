@@ -37,11 +37,4 @@ class VCheatApp extends StatelessWidget {
                   );
                 },
                 child: const Text("3. START CHEAT BUBBLE", style: TextStyle(color: Colors.white)),
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-}
+     
