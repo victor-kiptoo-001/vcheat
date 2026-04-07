@@ -5,7 +5,7 @@ import 'package:flutter_accessibility_service/flutter_accessibility_service.dart
 void main() => runApp(const VCheatApp());
 
 class VCheatApp extends StatelessWidget {
- 
+  const VCheatApp({super.key});
 
   @override
   Widget build(BuildContext context) {
