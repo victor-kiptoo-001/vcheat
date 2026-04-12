@@ -99,11 +99,7 @@ class _CheatOverlayContentState extends State<CheatOverlayContent> {
   "Tommy goes slower": "BOOOOOORING",
   "Blow up vehicles": "BIGBANG",
   
-  // Skins
-  "Skin: Lance": "LOOKLIKELANCE",
-  "Skin: Lawyer": "MYSONISALAWYER",
-  "Skin: Hilary": "ILOOKLIKEHILARY",
-  "Skin: Rocker": "ROCKANDROLLMAN",
+
   
   // Vehicles
   "Spawn Tank": "PANZER",
