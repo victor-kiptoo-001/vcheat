@@ -166,7 +166,7 @@ class _CheatOverlayContentState extends State<CheatOverlayContent> {
             ),
           ),
           TextButton(
-            onPressed: () => SystemAlertWindow.closeSystemWindow(),
+            : () => SystemAlertWindow.closeSystemWindow(),
             child: const Text("CLOSE", style: TextStyle(color: Colors.red)),
           )
         ],
