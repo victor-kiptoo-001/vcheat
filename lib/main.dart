@@ -160,7 +160,7 @@ class _CheatOverlayContentState extends State<CheatOverlayContent> {
                   onTap: () {
                     Clipboard.setData(ClipboardData(text: code));
                     // Optional: Add a small toast or vibration here if you want
-                  },
+                  
                 );
               },
             ),
@@ -172,5 +172,4 @@ class _CheatOverlayContentState extends State<CheatOverlayContent> {
         ],
       ),
     );
-  }
-}
+  
