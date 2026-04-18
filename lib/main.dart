@@ -152,8 +152,7 @@ class _CheatOverlayContentState extends State<CheatOverlayContent> {
               itemCount: filteredKeys.length,
               itemBuilder: (context, index) {
                 final name = filteredKeys[index];
-                final code = viceCityCheats[name]!;
-                return ListTile(
+                
                   dense: true,
                   title: Text(name, style: const TextStyle(color: Colors.white)),
                   subtitle: Text(code, style: const TextStyle(color: Colors.blueAccent)),
